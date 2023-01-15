@@ -35,14 +35,14 @@ Each of the team members create a webpage for this project as shown in the table
 
 | **Name**                | Contributions                                            |
 |-------------------------|----------------------------------------------------------|
-| Baidhawi (2118451)      | -Develop the contact and donate page structure  |            
+| Baidhawi (2119572)      | -Develop the contact and donate page structure  |            
 |                         | -Picked the right colour scheme   |
 |                         | -Video editing of project presentation  |
 |                         | -Responsibled to stylize all pages accordingly after final prototype   |
-| Aniq Rahim (2117277)    | -Develop the home and about page structure  |                      
+| Aniq Rahim (2119003)    | -Develop the home and about page structure  |                      
 |                         | -Develop navigation in the header and styling the footer   |
 |                         | -Handling and standardised overall CSS files and classes' nomenclature   |
-| Muhammad (2110753)      | -Develop the contact and donate page structure |
+| Muhammad (2113201)      | -Develop the contact and donate page structure |
 |                         | -Design the customized logo and sitemap
 |                         | -Make research and supply the assets and url of the images   |
 
