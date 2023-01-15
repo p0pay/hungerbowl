@@ -26,7 +26,7 @@ Prepared By:
 
 
 ## Project Site Map
-![sitemap](https://user-images.githubusercontent.com/file.jpg)
+![sitemap](https://github.com/p0pay/hungerbowl/blob/main/sitemap.png?raw=true)
 
 
 
