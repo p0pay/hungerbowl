@@ -17,7 +17,7 @@ Prepared By:
 
 | Name                                   | Matric Number |
 |----------------------------------------|---------------|
-| Muhammad Baidhawi bin Ismail           | 2119572       |
+| Muhammad Baidhawi bin Ismail           | 2119573       |
 | Muhammad Aniq bin Abdul Rahim          | 2119003       |
 | Muhammad bin Abas                      | 2113201       |
 
@@ -35,7 +35,7 @@ Each of the team members create a webpage for this project as shown in the table
 
 | **Name**                | Contributions                                            |
 |-------------------------|----------------------------------------------------------|
-| Baidhawi (2119572)      | -Develop the contact and donate page structure  |            
+| Baidhawi (2119573)      | -Develop the contact and donate page structure  |            
 |                         | -Picked the right colour scheme   |
 |                         | -Video editing of project presentation  |
 |                         | -Responsibled to stylize all pages accordingly after final prototype   |
